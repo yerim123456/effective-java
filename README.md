@@ -36,8 +36,8 @@
       <td>[yunjeooong]([https://github.com/023-dev](https://github.com/yunjeooong?tab=repositories))</td>
     </tr>
     <tr>
-      <td>황성민</td>
-      <td></td></td>
+      <td>양초명</td>
+      <td>[DanielYY95](https://github.com/DanielYY95)</td>
     </tr>
   </tbody>
 </table>
