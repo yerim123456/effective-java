@@ -33,7 +33,7 @@
     </tr>
     <tr>
       <td>최윤정</td>
-      <td>[yunjeooong]([https://github.com/023-dev](https://github.com/yunjeooong?tab=repositories))</td>
+      <td>[yunjeooong](https://github.com/yunjeooong?tab=repositories)</td>
     </tr>
     <tr>
       <td>양초명</td>
