@@ -91,8 +91,8 @@ class Point {
 ```java
 public class Shape {
     private static class Point {
-        private final int x;
-        private final int y;
+        public int x;
+        public int y;
 
         Point(int x, int y) {
             this.x = x;
