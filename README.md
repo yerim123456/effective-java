@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td>최윤정</td>
-      <td>[yunjeooong](https://github.com/yunjeooong?tab=repositories)</td>
+      <td>[yunjeooong](https://github.com/yunjeooong)</td>
     </tr>
     <tr>
       <td>양초명</td>
@@ -153,6 +153,8 @@
 - [ ] 88. readObject 메서드는 방어적으로 작성하라
 - [ ] 89. 인스턴스 수를 통제해야 한다면 readResolve보다는 열거 타입을 사용하라
 - [ ] 90. 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라
+          릭 타입으로 만들라
+
 
 ## 스터디 규칙
 https://discord.com/channels/1322124156145238096/1322124156610809867
